@@ -1,1 +1,5 @@
-# HireHub
+Hire Hub is an online job portal developed using Java, JSP, Servlets, JDBC, and MySQL. The platform connects job seekers and employers in a streamlined, user-friendly interface. It allows job seekers to create profiles, upload resumes, and apply for jobs that match their skills. Employers can post job openings, browse candidate profiles, and shortlist applicants.
+
+The backend is powered by MySQL, ensuring efficient data storage and retrieval, while JDBC manages the interaction between the Java-based application and the database. JSP and Servlets handle the dynamic content generation and request-response cycle, creating a seamless user experience.
+
+Hire Hub implements robust authentication mechanisms to protect user data and offers features like advanced search filters, job alerts, and personalized dashboards. The system is scalable, making it suitable for small to large recruitment operations. The intuitive design and strong technical foundation enable effective job matching and efficient recruitment processes.
